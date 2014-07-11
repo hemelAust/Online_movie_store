@@ -1,0 +1,147 @@
+*{margin:0;padding:0}
+body{ font-family:"Times New Roman", Times, serif; font-size:14px;  color:#000; font-weight:bold}
+.mainarea{width:960px;margin:20px auto; background:#999;}
+.fix{ overflow:hidden}
+.header_area{}
+.brishty{ font-size:26px; padding:5px}
+.nasif{ margin-top:20px}
+.left_header{ font-family:"Times New Roman", Times, serif; margin-left:10px}
+.left_header_font{font-size: 40px;font-weight: bold;}
+.right_header{ margin-right:5px}
+.right_header_button{ font-family:"Times New Roman", Times, serif;margin-top: 14px;margin-right: 5px; height:32px; width: 80px; font-size:20px; font-weight:bold}
+.right_header_login_button {height: 32px;width: 80px; font-size:18px; font-weight:bold;font-family:"Times New Roman", Times, serif;font-size:20px;}
+.sign_up_link_style{ text-decoration:none}
+.align_left{ float:left}
+.right_header{}
+.align_right{ float:right}
+.menu_area{}
+.menu{}
+.mainmenu{background:#CCC;overflow:hidden; font-family:"Times New Roman", Times, serif;}
+.mainmenu ul{margin:0;padding:0;list-style:none;}
+.mainmenu ul li{float:left;border-right:1px solid #ddd;}
+.mainmenu ul li a{display:block;text-decoration:none;color:#000;padding:10px 10px;text-align:center; font-size:20px}
+.mainmenu ul li a:hover{background:#FFF;}
+.maincontent{ margin-left:18px}
+.images_area{ margin:0px; padding:0px;}
+.images_header{ font-family:"Times New Roman", Times, serif;font-size: 30px;margin: 5px;}
+.top_ten_images_area {}
+.images1_area { float: left; margin: 2px;}
+.popopo:hover{ width:250px; height:200px}
+.images1{}
+.details{}
+.details_style { background-attachment: scroll; background-clip: border-box; background-color: #996633; background-image: none; background-origin: padding-box;
+ background-position: 0 0;background-repeat: repeat;background-size: auto auto;border-bottom-left-radius: 5px;border-bottom-right-radius: 5px;
+  border-top-left-radius: 5px;border-top-right-radius: 5px;color: #FFFFFF; font-family:"Times New Roman", Times, serif;padding-left: 10px;width: 56px;margin-left: 37px;
+  margin-top: 5px;margin-bottom: 1px;}
+.details_link_style{ text-decoration:none; color:#FFF}
+.this_week_special_images_area{}
+.this_week_special_area_font{ font-family:"Times New Roman", Times, serif;font-size: 30px; margin-left:5px}
+.footer_area{height: 114px; margin-bottom:15px}
+.left_footer{float:left; border:1px #000 solid; border-radius:10px;  margin-left: 25px; margin-top: 5px; width: 285px;height: 104px; float:left}
+.left_footer_heading { font-family:"Times New Roman", Times, serif;font-size: 25px; margin: 10px;}
+.left_footer_ul{ text-decoration:none; list-style:none}
+.left_footer_ul li a{
+ text-decoration: none;
+}
+.left_footer_li_none { -moz-text-blink: none; -moz-text-decoration-color: -moz-use-text-color;-moz-text-decoration-line: none;-moz-text-decoration-style: solid;
+  margin-left: 10px;font-size: 18px;margin-right: 5px;color:#000;}
+.social_bookmarks { margin-left: 15px; margin-top: 10px;}
+.addtochart{}
+.addtochart_link_style{}
+.addtochart_font1_area{}
+.addtochart_font2_area{}
+.addtochart_font3_area{}
+.addtochart_font4_area{}
+addtochart_font5_area{}
+addtochart_font6_area{}
+.addtochart_font1{ float:left; font-family:"Times New Roman", Times, serif; color:#FFF; font-size:18px; margin:0px 25px; background:#C90; border-radius:5px; margin-bottom:5px; margin-top:5px}
+.addtochart_font2{ float:left; font-family:"Times New Roman", Times, serif; color:#FFF; font-size:18px;margin:0px 86px; background:#C90; border-radius:5px; margin-bottom:5px; margin-top:5px}
+.addtochart_font3{ float:left; font-family:"Times New Roman", Times, serif; color:#FFF; font-size:18px;margin:0px 22px; background:#C90; border-radius:5px; margin-bottom:5px; margin-top:5px}
+.addtochart_font4{ float:left; font-family:"Times New Roman", Times, serif; color:#FFF; font-size:18px;margin:0px 65px; background:#C90; border-radius:5px; margin-bottom:5px; margin-top:5px}
+.addtochart_font5{ float:left; font-family:"Times New Roman", Times, serif; color:#FFF; font-size:18px; margin-right:70px; margin-left:30px; background:#C90; border-radius:5px; margin-bottom:5px; margin-top:5px}
+.addtochart_font6{ float:left; font-family:"Times New Roman", Times, serif; color:#FFF; font-size:18px;margin:0px 30px; background:#C90; border-radius:5px; margin-bottom:5px; margin-top:5px}
+.search{ font-family:"Times New Roman", Times, serif;}
+.search_field { font-size: 20px;height: 40px; width: 500px; font-family:"Times New Roman", Times, serif;}
+.table{}
+.table_width{ margin-right:50px}
+.header_three { font-family:"Times New Roman", Times, serif;font-size: 50px;}
+.sign_up { font-family:"Times New Roman", Times, serif;font-size: 20px;padding-left:20px;
+   padding-top:15px;
+   padding-bottom:15px;
+  
+}
+.input_style {
+  height: 30px;
+  font-family:"Times New Roman", Times, serif;
+}
+.back {
+  -moz-text-blink: none;
+  -moz-text-decoration-color: -moz-use-text-color;
+  -moz-text-decoration-line: none;
+  -moz-text-decoration-style: solid;
+   font-family:"Times New Roman", Times, serif;
+  font-size: 20px;
+  height: 40px;
+  width: 70px;
+} 
+.main_login{ margin:20px auto; width:500px}
+.login_header {
+   font-family:"Times New Roman", Times, serif;
+  font-size: 50px;
+  border-bottom: 2px solid;
+  margin-bottom: 30px;
+}
+.login_email {
+  font-family:"Times New Roman", Times, serif;
+  margin-left: 10px;
+  margin-top: 16px;
+  font-size: 25px;
+}
+.login_password {
+   font-family:"Times New Roman", Times, serif;
+  margin-left: 10px;
+  margin-top: 16px;
+  font-size: 25px;
+}
+.bangla_movies{ padding:20px}
+.bangla_movies_li{ list-style:none}
+.bangla_movies_a{ color:#000; text-decoration:none; font-size:24px}
+.bangla_movies_a_one{ color:#000; text-decoration:none; font-size:24px; padding:5px}
+.movie_name{ font-size:30px}
+.table_popular_bangla_movie{ margin:10px auto}
+.p_movie_name{ font-size:24px; padding:5px}
+.input_style_one {
+  height: 30px;
+   font-family:"Times New Roman", Times, serif; padding:5px; font-size:24px; margin-top:10px; border:2px solid #000; border-radius:5px;
+}
+.pagination{ margin-left:400px;font-size:24px;}
+.search_button{ margin-left:5px;font-size:21px;padding:5px; font-family:"Times New Roman", Times, serif; font-weight:bold}
+.back_ {
+  -moz-text-blink: none;
+  -moz-text-decoration-color: -moz-use-text-color;
+  -moz-text-decoration-line: none;
+  -moz-text-decoration-style: solid;
+   font-family:"Times New Roman", Times, serif;
+  font-size: 20px;
+  height: 40px;
+  width: 70px;
+   margin-left:400px; margin-bottom:5px;font-weight:bold
+} 
+.required{ color:#F00; font-size:20px}
+.address{ font-family:"Times New Roman", Times, serif;}
+.header_three_ { font-family:"Times New Roman", Times, serif;font-size:30px;}
+.user_email {
+  font-size: 20px;
+  padding: 5px;
+}
+.login_form {
+  margin-left:120px;
+  margin-top: 10px;
+  font-size: 30px;
+  margin-bottom:10px
+}
+.table1{}
+.free_movie_left{ margin-right:300px; font-size:20px; padding:8px; margin-bottom:5px}
+.free_movie_right{margin-left:200px; font-size:20px; padding:8px}
+.kungfu{margin-bottom:5px}
+.watch{ text-decoration:none; list-style:none; color:#000}
